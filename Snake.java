@@ -8,5 +8,3 @@ public class Snake
 	}
 }
 
-
-//test 2
